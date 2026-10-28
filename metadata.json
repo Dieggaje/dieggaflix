@@ -1,0 +1,6 @@
+{
+  "name": "Stremio Nova - Media Center & Streaming Aggregator",
+  "description": "A modern open-source media aggregator and streaming center fork of Stremio featuring Cinemeta catalog, modular addons ecosystem, torrent and HTTP stream resolvers, and a full cinematic video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
